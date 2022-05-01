@@ -7,3 +7,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode problem #700 on 04/14/22, not terribly difficult, just needed to look up the syntax<br>
 -Added a python solution to leetcode problem #35 on 04/27/22, not hard, implementing a binary search is the idea behind this question<br>
 -Added a python solution to leetcode problem #2011 on 04/29/22, three ways to solve the problem, last solution was definitely the fastest<br>
+-Added a python solution to leetcode problem #35 on 05/01/22<br>
