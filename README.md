@@ -11,3 +11,4 @@ will add an explanation when I look it up!<br>
 -Added a solution to leetcode #905 on 05/02/22, sort array by even/odd parity, solution is not optimized, will be writing a new one shortly<br>
 -Added a solution to leetcode #225 on 05/05/22, implement a stack using a queue, the only tricky bit about this question was making the insert method<br>
 -Added a java solution to leetcode #1502 on 05/08/22, can make arithmetic progression from sequence<br>
+-Added a python solution to leetcode problem #1108 on 05/08/22, defanging an IP address<br>
