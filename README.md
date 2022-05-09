@@ -12,3 +12,4 @@ will add an explanation when I look it up!<br>
 -Added a solution to leetcode #225 on 05/05/22, implement a stack using a queue, the only tricky bit about this question was making the insert method<br>
 -Added a java solution to leetcode #1502 on 05/08/22, can make arithmetic progression from sequence<br>
 -Added a python solution to leetcode problem #1108 on 05/08/22, defanging an IP address<br>
+-Added a java and python solution to leetcode problem #1523 on 05/08/22, count odd numbers in an interval range<br>
