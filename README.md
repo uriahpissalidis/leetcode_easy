@@ -16,3 +16,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2114 on 05/10/22, count the max number of words in a sentence<br>
 -Added a java solution to leetcode #1431 on 05/14/22, Kids With the Greatest Number of Candies, trivial solution, figuring out optimizations<br>
 -Added a python solution to leetcode #771 on 05/14/22, Jewels And Stones, basically wanted a naive implementation of a hash table (or dict in python)<br>
+-Added a java solution to leetcode #1528 on 05/17/22, Shuffle String, the tricky bit was trying to figure out how to "unshuffle" the string with the indices<br>
