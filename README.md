@@ -23,3 +23,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1859 on 05/25/22, Sorting the Sentence, used split, join, and list slicing <br>
 -Added a python solution to leetcode #191 on 05/26/22, Number of 1 Bits <br>
 -Added a python solution to leetcode #1342 on 05/26/22, Number of Steps to Reduce a Number to Zero, got this one in one try <br>
+-Added a python solution to leetcode #268 on 05/27/22, Missing Number, overcomplicating the solution made this problem more trouble than it was worth <br>
