@@ -26,3 +26,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #268 on 05/27/22, Missing Number, overcomplicating the solution made this problem more trouble than it was worth <br>
 -Added a python solution to leetcode #1221 on 05/29/22, Split a String in Balanced Strings, once the algo was realized, it was very easy <br>
 -Added two python solutions to leetcode #53 on 05/31/22, Maximum Subarray, once I familiarized myself with the max function and realized it was a simple summation problem, the initial difficulty faded away <br>
+-Added a python solution to leetcode #1480 on 06/01/22, Running Sum of a 1d array, easiest question on leetcode<br>
