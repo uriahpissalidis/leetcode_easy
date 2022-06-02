@@ -27,3 +27,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1221 on 05/29/22, Split a String in Balanced Strings, once the algo was realized, it was very easy <br>
 -Added two python solutions to leetcode #53 on 05/31/22, Maximum Subarray, once I familiarized myself with the max function and realized it was a simple summation problem, the initial difficulty faded away <br>
 -Added a python solution to leetcode #1480 on 06/01/22, Running Sum of a 1d array, easiest question on leetcode<br>
+-Added a python solution to leetcode #867 on 06/02/22, Transpose of a Matrix, remembering rows and columns in a 2D matrix was a little hard to recall, other than that using the append method makes this problem trivial <br>
