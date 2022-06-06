@@ -30,3 +30,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #867 on 06/02/22, Transpose of a Matrix, remembering rows and columns in a 2D matrix was a little hard to recall, other than that using the append method makes this problem trivial <br>
 -Added a python solution to leetcode #1791 on 06/04/22, Find Center of Star Graph <br>
 -Added a python solution to leedcode #1662 on 06/05/22, Check if Two String Arrays are Equivalent <br>
+-Added a python solution to leetcode #2259 on 06/06/22, Remove Digit From Number to Maximize Result <br>
