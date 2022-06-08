@@ -32,3 +32,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leedcode #1662 on 06/05/22, Check if Two String Arrays are Equivalent <br>
 -Added a python solution to leetcode #2259 on 06/06/22, Remove Digit From Number to Maximize Result <br>
 -Added a python solution to leetcode #88 on 06/07/22, Merge Sorted Array, again list slice reigns supreme <br>
+-Added a python solution to leetcode #1332 on 06/08/22, Remove Palindromic Subsequences, easy once the questions was READ <br>
