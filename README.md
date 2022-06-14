@@ -35,3 +35,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1332 on 06/08/22, Remove Palindromic Subsequences, easy once the questions was READ <br>
 -Added a python solution to leetcode #1588 on 06/11/22, Sum of all Odd Length Subarrays <br>
 -Added a python solution to leetcode #1290 on 06/11/22, Convert Binary Number in a Linked List to Integer <br>
+-Added a python solution to leetcode #14 on 06/14/22, Longest Common Prefix, realizing PREFIX was a big step to solving this problem <br>
