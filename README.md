@@ -36,3 +36,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1588 on 06/11/22, Sum of all Odd Length Subarrays <br>
 -Added a python solution to leetcode #1290 on 06/11/22, Convert Binary Number in a Linked List to Integer <br>
 -Added a python solution to leetcode #14 on 06/14/22, Longest Common Prefix, realizing PREFIX was a big step to solving this problem <br>
+-Added a python solution to leetcode #20 on 06/15/22, Valid Parentheses, stack makes the problem easy, I'm curious how to optimize the runtime though <br> 
