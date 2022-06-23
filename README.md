@@ -38,3 +38,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #14 on 06/14/22, Longest Common Prefix, realizing PREFIX was a big step to solving this problem <br>
 -Added a python solution to leetcode #20 on 06/15/22, Valid Parentheses, stack makes the problem easy, I'm curious how to optimize the runtime though <br> 
 -Added a python solution to leetcode #2006 on 06/20/22, Count Number of Pair With Absolute Difference K <br>
+-Added a python solution to leetcode #557 on 06/23/22, Reverse Words in a String III, going to add a solution without built-in methods for practice after this week <br>
