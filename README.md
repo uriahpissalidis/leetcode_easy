@@ -41,3 +41,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #557 on 06/23/22, Reverse Words in a String III, going to add a solution without built-in methods for practice after this week <br>
 -Added a python solution to leetcode #1684 on 06/24/22, Count the Number of Consistent Strings, initially had a solution to use two sets and intersection but I got lost in the minutia of it, will implement that solution later to check the speed of it <br>
 -Added a python solution to leetcode #709 on 06/24/22, To Lower Case, the library solution is much faster and efficient than the code lol <br>
+-Added a python solution to leetcode #1816 on 06/25/22, Truncate Sentence, done two ways! With library methods and an iteratiive solution <br>
