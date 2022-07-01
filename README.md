@@ -44,3 +44,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1816 on 06/25/22, Truncate Sentence, done two ways! With library methods and an iteratiive solution <br>
 -Added a python solution to leetcode #1832 on 06/25/22, Check if the Sentence Is Pangram <br>
 -Added a python solution to leetcode #1913 on 06/25/22, Maximum Product Difference Between Two Pairs, will add a solution without sorting soon <br>
+-Added a python solution to leetcode #1710 on 07/01/22, Maximum Units on a Truck <br>
