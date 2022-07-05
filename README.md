@@ -46,3 +46,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1913 on 06/25/22, Maximum Product Difference Between Two Pairs, will add a solution without sorting soon <br>
 -Added a python solution to leetcode #1710 on 07/01/22, Maximum Units on a Truck <br>
 -Added a python solution to leetcode #2315 on 07/01/22, Count Asterisks <br>
+-Added a python solution to leetcode #1021 on 07/05/22, Remove Outermost Parentheses <br>
