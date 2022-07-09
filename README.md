@@ -49,3 +49,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1021 on 07/05/22, Remove Outermost Parentheses <br>
 -Added a python solution to leetcode #509 on 07/06/22, Fibonacci Number (one method pushed, another pushed later [more pythonic solutions]) <br>
 -Added a python solution to leetcode #804 on 07/07/22, Unique Morse Code Words <br>
+-Added a python solution to leetcode #1844 on 07/09/22, Replace All Digits with Characters <br>
