@@ -53,3 +53,5 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1967 on 07/12/22, Number of Strings That Appear as Substrings in Word <br>
 -Added a python solution to leetcode #832 on 07/12/22, Flipping an Image <br>
 -Added a python solution to leetcode #1572 on 07/14/22, Matrix Diagonal Sum <br>
+-Added a python solution to leetcode #118 on 07/18/22, Pascal's Triangle <br>
+
