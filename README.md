@@ -56,3 +56,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #118 on 07/18/22, Pascal's Triangle <br>
 -Added a python solution to leetcode #125 on 07/19/22, Valid Palindrome <br>
 -Added a python solution to leetcode #1374 on 07/20/22, Generate a String With Characters That Have Odd Counts <br>
+-Added a python solution to leetcode #2089 on 07/23/22, Find Target Indices After Sorting Array, two ways, commented solution is faster <br>
