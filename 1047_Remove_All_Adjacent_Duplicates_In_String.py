@@ -1,14 +1,15 @@
 class Solution:
-    def removeDuplicates(self, S: str) -> str:
+    def removeDuplicates(self, s: str) -> str:
+        #abbaca
         output = []
-        for ch in S:
+        for ch in s:
             # upon seeing two matching characters, pop the stack
             if output and ch == output[-1]: 
                 output.pop()
-            # otherwise they join
+            # otherwise, append to the stack
             else: 
                 output.append(ch)
-        # join the output stack at the end to form the stringa
+        # join the output stack at the end to form the strings
         return ''.join(output)
 
         """
