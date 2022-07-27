@@ -60,3 +60,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2000 on 07/23/22, Reverse Prefix of Word <br>
 -Added a python solution to leetcode #2351 on 07/25/22, First Letter to Appear Twice <br>
 -Added a python solution to leetcode #1047 on 07/26/22, Remove All Adjacent Duplicates In String <br>
+-Added a python solution to leetcode #1732 on 07/27/22, Find the Highest Altitude <br>
