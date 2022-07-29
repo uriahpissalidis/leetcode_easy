@@ -66,3 +66,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1827 on 07/29/22, Minimum Operations to Make the Array Increasing <br>
 -Added a python solution to leetcode #1704 on 07/29/22, Determine if String Halves Are Alike <br>
 -Added a python solution to leetcode #1748 on 07/29/22, Sum of Unique Elements <br>
+-Added a python solution to leetcode #2185 on 07/29/22, Counting Words With a Given Prefix <br>
