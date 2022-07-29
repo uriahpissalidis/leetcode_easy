@@ -61,3 +61,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2351 on 07/25/22, First Letter to Appear Twice <br>
 -Added a python solution to leetcode #1047 on 07/26/22, Remove All Adjacent Duplicates In String <br>
 -Added a python solution to leetcode #1732 on 07/27/22, Find the Highest Altitude <br>
+-Added a python solution to leetcode #242 on 07/28/22, Valid Anagram, worth noting that converting to ascii values and comparing will not work in all cases <br>
