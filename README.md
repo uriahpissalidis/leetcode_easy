@@ -67,3 +67,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1704 on 07/29/22, Determine if String Halves Are Alike <br>
 -Added a python solution to leetcode #1748 on 07/29/22, Sum of Unique Elements <br>
 -Added a python solution to leetcode #2185 on 07/29/22, Counting Words With a Given Prefix <br>
+-Added a python solution to leetcode #1295 on 08/02/2022, Find Numbers with Even Number of Digits <br>
