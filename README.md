@@ -70,3 +70,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1295 on 08/02/2022, Find Numbers with Even Number of Digits <br>
 -Added a python solution to leetcode #1979 on 08/02/22, Find Greatest Common Divisor of Array <br>
 -Added a python solution to leetcode #1941 on 08/03/22, Check if All Characters Have Equal Number of Occurrences <br>
+-Added a python solution to leetcode #326 on 08/06/22, Power of Three <br>
