@@ -72,3 +72,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1941 on 08/03/22, Check if All Characters Have Equal Number of Occurrences <br>
 -Added a python solution to leetcode #326 on 08/06/22, Power of Three <br>
 -Added a python solution to leetcode #561 on 08/08/22, Array Partition <br>
+-Added a python solution to leetcode #108 on 08/09/22, Convert Sorted Array to Binary Search Tree <br>
