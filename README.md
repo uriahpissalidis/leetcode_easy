@@ -74,3 +74,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #561 on 08/08/22, Array Partition <br>
 -Added a python solution to leetcode #108 on 08/09/22, Convert Sorted Array to Binary Search Tree <br>
 -Added a python solution to leetcode #235 on 08/11/22, Lowest Common Ancestor of a Binary Search Tree <br>
+-Added a python solution to leetcode #27 on 08/12/22, Remove Element <br>
