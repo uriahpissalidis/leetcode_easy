@@ -76,3 +76,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #235 on 08/11/22, Lowest Common Ancestor of a Binary Search Tree <br>
 -Added a python solution to leetcode #27 on 08/12/22, Remove Element <br>
 -Added a python solution to leetcode #83 on 08/13/22, Remove Duplicates from Sorted List <br>
+-Added a python solution to leetcode #1768 on 08/15/22, Merge Strings Alternately, two ways, commented solution I came up with upon first look <br>
