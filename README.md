@@ -81,3 +81,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #58 on 08/21/22, Length of Last Word, lots of strange edge cases in this one <br>
 -Added a python solution to leetcode #342 on 08/22/22, Power of Four <br>
 -Added a python solution to leetcode #234 on 08/23/22, Palindrome Linked List <br>
+-Added a python solution to leetcode #383 on 08/24/22, Ransom Note <br>
