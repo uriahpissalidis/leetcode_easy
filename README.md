@@ -84,3 +84,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #383 on 08/24/22, Ransom Note <br>
 -Added a python solution to leetcode #70 on 08/25/22, Climbing Stairs <br>
 -Added a python solution to leetcode #136 on 08/26/22, Single Number <br>
+-Added a python solution to leetcode #590 on 09/04/22, N-ary Tree Postorder Traversal <br>
