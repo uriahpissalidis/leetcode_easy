@@ -88,3 +88,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #258 on 09/06/22, Add Digits, easy once trick is realized <br>
 -Added a python solution to leetcode #520 on 09/07/22, Detect Capital, weird title for what the question was asking (in my opinion) <br>
 -Added a python solution to leetcode #345 on 09/08/22, Reverse Vowels of a String, 2 ways
+-Added a python solution to leetcode #682 on 09/15/22, Baseball Game, follow the simulation and realize how a stack works
