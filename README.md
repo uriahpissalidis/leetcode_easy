@@ -94,3 +94,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2119 on 09/21/22, A Number After a Double Reversal <br>
 -Added a python solution to leetcode #2169 on 09/21/22, Count Operations to Obtain Zero <br>
 -Added a python solution to leetcode #1051 on 09/21/22, Height Checker <br>
+-Added a python solution to leetcode #961 on 09/21/22, N-Repeated Element in Size 2N Array <br>
