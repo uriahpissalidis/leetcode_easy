@@ -92,3 +92,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #21 on 09/16/22, Merge Two Sorted Lists, once I stopped overthinking it, the solution made sense <br>
 -Added a python solution to leetcode #1351 on 09/21/22, Count Negative Numbers in a Sorted Matrix <br>
 -Added a python solution to leetcode #2119 on 09/21/22, A Number After a Double Reversal <br>
+-Added a python solution to leetcode #2169 on 09/21/22, Count Operations to Obtain Zero <br>
