@@ -6,3 +6,5 @@ class Solution:
             i+=1
             j-=1
         return s
+
+        #for i in range(len(s)//2): s[i], s[~i] = s[~i], s[i]
