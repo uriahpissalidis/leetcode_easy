@@ -99,3 +99,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #461 on 09/24/22, Hamming Distance, done two ways <br>
 -Added a python solution to leetcode #2278 on 09/25/22, Percentage of Letter in String, two ways <br>
 -Added a python solution to leetcode #876 on 09/27/22, Middle of the Linked List, two ways <br>
+-Added a python solution to leetcode #392 on 09/28/22, Is Subsequence, two pointer approach <br>
