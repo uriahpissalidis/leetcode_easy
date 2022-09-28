@@ -1,5 +1,7 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
+        # Runtime O(n)
+        # Space   O(1)
         i, j, k = 0, 0, ''
         while i < len(s) and j < len(t):
             if s[i] == t[j]:
