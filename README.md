@@ -103,3 +103,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2255 on 09/30/22, Count Prefixes of a Given String <br>
 -Added a python solution to leetcode #191 on 10/01/22, Number of 1 Bits, added two bit manipulation solutions <br>
 -Added a python solution to leetcode #100 on 10/02/22, Same Tree <br>
+-Added a python solution to leetcode #409 on 10/03/22, Longest Palindrome, 2 ways, same idea <br>
