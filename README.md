@@ -96,7 +96,7 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1051 on 09/21/22, Height Checker <br>
 -Added a python solution to leetcode #961 on 09/21/22, N-Repeated Element in Size 2N Array <br>
 -Added a python solution to leetcode #338 on 09/24/22, Counting Bits <br>
--Added a python solution to leetcode #461 on 09/24/22, Hamming Distance, done two ways <br>
+-Added a python solution to leetcode #461 on 09/24/22, Hamming Distance, done two ways, added a string solution on 10/09/22 <br>
 -Added a python solution to leetcode #2278 on 09/25/22, Percentage of Letter in String, two ways <br>
 -Added a python solution to leetcode #876 on 09/27/22, Middle of the Linked List, two ways <br>
 -Added a python solution to leetcode #392 on 09/28/22, Is Subsequence, two pointer approach <br>
