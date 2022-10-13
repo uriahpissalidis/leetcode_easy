@@ -107,3 +107,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #112 on 10/04/22, Path sum, 2 ways to illustrate different approaches within DFS solutions <br>
 -Added a python solution to leetcode #160 on 10/06/22, Intersection of Two Linked Lists <br>
 -Added a python solution to leetcode #653 on 10/08/22, Two Sum IV - Input is a BST <br>
+-Added a python solution to leetcode #2357 on 10/13/22, Make Array Zero by Subtracting Equal Amounts <br>
