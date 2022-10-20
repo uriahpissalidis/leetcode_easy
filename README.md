@@ -111,3 +111,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #349 on 10/15/22, Intersection of Two Arrays <br>
 -Added a python solution to leetcode #2441 on 10/16/22, Largest Positive Integer That Exists With Its Negative <br>
 -Added a python solution to leetcode #2432 on 10/18/22, The Employee That Worked on the Longest Task <br>
+-Added a python solution to leetcode #2404 on 10/20/22, Most Frequent Even Element <br>
