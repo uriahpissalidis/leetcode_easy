@@ -113,3 +113,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2432 on 10/18/22, The Employee That Worked on the Longest Task <br>
 -Added a python solution to leetcode #2404 on 10/20/22, Most Frequent Even Element <br>
 -Added a python solution to leetcode #2413 on 10/21/22, Smallest Even Multiple <br>
+-Added a python solution to leetcode #2395 on 10/22/22, Find Subarrays With Equal Sum <br>
