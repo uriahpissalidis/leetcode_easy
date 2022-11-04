@@ -117,3 +117,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #645, on 10/23/22, Set Mismatch <br>
 -Added a python solution to leetcode #2389 on 10/27/22, Longest Subsequence With Limited Sum <br>
 -Added a python solution to leetcode #766 on 10/31/22, Toeplitz Matrix <br>
+-Added a python solution to leetcode #2347 on 11/02/22, Best Poker Hand <br>
