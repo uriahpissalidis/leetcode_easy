@@ -118,3 +118,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2389 on 10/27/22, Longest Subsequence With Limited Sum <br>
 -Added a python solution to leetcode #766 on 10/31/22, Toeplitz Matrix <br>
 -Added a python solution to leetcode #2347 on 11/02/22, Best Poker Hand <br>
+-Added a python solution to leetcode #2206 on 11/03/22, Divide Array Into Equal Pairs <br>
