@@ -121,3 +121,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2206 on 11/03/22, Divide Array Into Equal Pairs <br>
 -Added a python solution to leetcode #657 on 11/04/22, Robot Return to Origin <br>
 -Added a python solution to leetcode #1323 on 11/06/22, Maximum 69 Number <br>
+-Added a python solution to leetcode #2124 on 11/07/22, Check if All A's Appears Before All B's <br>
