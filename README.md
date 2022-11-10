@@ -123,3 +123,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1323 on 11/06/22, Maximum 69 Number <br>
 -Added a python solution to leetcode #2124 on 11/07/22, Check if All A's Appears Before All B's <br>
 -Added a python solution to leetcode #2032 on 11/08/22, Two Out of Three <br>
+-Added a python solution to leetcode #206 on 11/09/22, Reverse Linked List <br>
