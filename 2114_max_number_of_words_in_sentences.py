@@ -2,6 +2,16 @@
 
 class Solution:
     def mostWordsFound(self, sentences: List[str]) -> int:
+        
+        # most recent solution
+        # TC: O(N) || SC: O(1)
+        ans = 0
+        for i in range(len(s)):
+            s[i] = s[i].count(' ') + 1
+            ans = max(ans, s[i])
+        return ans
+
+        
         """
         I think the idea is to go through each set of quotes
         then count the number of spaces
