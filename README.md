@@ -127,3 +127,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2164 on 11/12/22, Sort Even and Odd Indices Independently <br>
 -Added a python solution to leetcode #1974 on 11/16/22, Minimum Time to Type Word Using Special Typewriter <br>
 -Added a python solution to leetcode #263 on 11/17/22, Ugly Number <br>
+-Added a python solution to leetcode #2469 on 11/18/22, Convert the Temperature <br>
