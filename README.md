@@ -130,3 +130,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2469 on 11/18/22, Convert the Temperature <br>
 -Added a python solution to leetcode #6241 on 11/19/22, Number of Unequal Triplets in Array <br>
 -Added a python solution to leetcode #1460 on 11/21/22, Make Two Arrays Equal by Reversing Subarrays <br>
+-Added a python solution to leetcode #933 on 11/23/22, Number of Recent Calls <br>
