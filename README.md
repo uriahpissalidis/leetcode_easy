@@ -132,3 +132,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1460 on 11/21/22, Make Two Arrays Equal by Reversing Subarrays <br>
 -Added a python solution to leetcode #933 on 11/23/22, Number of Recent Calls <br>
 -Added a python solution to leetcode #2154 on 11/24/22, Keep Multiplying Found Values by Two <br>
+-Added a python solution to leetcode #1486 on 11/25/22, XOR Operation in an Array <br>
