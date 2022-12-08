@@ -134,6 +134,6 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2154 on 11/24/22, Keep Multiplying Found Values by Two <br>
 -Added a python solution to leetcode #1486 on 11/25/22, XOR Operation in an Array <br>
 -Added a python solution to leetcode #2481 on 11/26/22, Minimum Cuts to Divide a Circle <br>
--Added a python solution to leetcode #1207 on 11/30/22, Unique Number of Occurrences <br>
+-Added a python solution to leetcode #1207 on 11/30/22, Unique Number of Occurrences, added a faster solution on 12/08/22 <br>
 -Added a python solution to leetcode #2485 on 12/04/22, Find the Pivot Integer <br>
 -Added a python solution to leetcode #872 on 12/07/22, Leaf-Similar Trees <br>
