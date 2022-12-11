@@ -138,3 +138,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #2485 on 12/04/22, Find the Pivot Integer <br>
 -Added a python solution to leetcode #872 on 12/07/22, Leaf-Similar Trees <br>
 -Added a python solution to leetcode #1403 on 12/09/22, Minimum Subsequence in Non-Increasing Order <br>
+-Added a python solution to leetcode #2496 on 12/10/22, Maximum Value of a String in an Array <br>
