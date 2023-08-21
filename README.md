@@ -143,3 +143,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1217 on 12/12/22, Minimum Cost to Move Chips to The Same Position <br>
 -Added a python solution to leetcode #1356 on 12/15/22, Sort Integers by The Number of 1 Bits <br>
 -Added a python solution to leetcode #2506 on 12/18/22, Count Pairs Of Similar Strings <br>
+-Added a python solution to leetcode #28 on 08/21/23, Find the Index of the First Occurrence in a String <br>
