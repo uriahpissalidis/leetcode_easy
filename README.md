@@ -144,3 +144,4 @@ will add an explanation when I look it up!<br>
 -Added a python solution to leetcode #1356 on 12/15/22, Sort Integers by The Number of 1 Bits <br>
 -Added a python solution to leetcode #2506 on 12/18/22, Count Pairs Of Similar Strings <br>
 -Added a python solution to leetcode #28 on 08/21/23, Find the Index of the First Occurrence in a String <br>
+-Added a python solution to leetcode #1920 on 08/22/23, Build Array from Permutation <br>
